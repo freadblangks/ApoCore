@@ -1,0 +1,14 @@
+Riding Trainer = 31247 
+Weapon Master 1  = 11868 
+Weapon Master 2 = 11869  
+Weapon Master 3 = 11870 
+Mage trainer = 5882
+Priest trainer = 6018
+Rouge trainer = 3327
+Warlock trainer = 3325
+Shammy trainer = 3344
+Pally trainer = 20406
+Warrior trainer = 4593
+Druid trainer = 12042
+Hunter trainer = 3406
+Death Knight trainer = 28474

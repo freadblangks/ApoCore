@@ -1,0 +1,1 @@
+insert  into `command`(`name`,`permission`,`help`) values ('world',1013,'Syntax: .world');
