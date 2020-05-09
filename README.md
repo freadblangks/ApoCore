@@ -1,9 +1,9 @@
-# ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
+ApocalypseCore
 
 
 ## Introduction
 
-TrinityCore is a *MMORPG* Framework based mostly in C++.
+ApocalypseCore is a *MMORPG* Framework based mostly in C++.
 
 It is derived from *MaNGOS*, the *Massive Network Game Object Server*, and is
 based on the code of that project with extensive changes over time to optimize,
